@@ -1,6 +1,6 @@
 {
 	"name": "pixel-character",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Pixelate the character",
 	"main": "./dist/index.js",
 	"scripts": {

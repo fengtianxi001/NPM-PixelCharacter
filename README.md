@@ -1,7 +1,7 @@
 # 🚀 pixel-character
 
 <div>
-  <img src="https://img.shields.io/badge/language-javascript-4bc51d.svg">
+  <img src="https://img.shields.io/github/languages/top/fengtianxi001/Npm-Pixel-Character">
   <img src="https://travis-ci.org/boennemann/badges.svg?branch=master">
   <img src="https://img.shields.io/github/issues/fengtianxi001/Npm-Pixel-Character">
   <img src="https://img.shields.io/github/forks/fengtianxi001/Npm-Pixel-Character">
