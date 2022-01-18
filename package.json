@@ -1,6 +1,6 @@
 {
 	"name": "pixel-character",
-	"version": "",
+	"version": "1.0.0",
 	"description": "Pixelate the character",
 	"main": "./dist/index.js",
 	"scripts": {
@@ -20,10 +20,10 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/fengtianxi001/npm-pixel-character.git"
+		"url": "git+https://github.com/fengtianxi001/Npm-Pixel-Character.git"
 	},
 	"bugs": {
-		"url": "https://github.com/fengtianxi001/npm-pixel-character/issues"
+		"url": "https://github.com/fengtianxi001/Npm-Pixel-Character/issues"
 	},
-	"homepage": "https://github.com/fengtianxi001/npm-pixel-character#readme"
+	"homepage": "https://github.com/fengtianxi001/Npm-Pixel-Character#readme"
 }
