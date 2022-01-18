@@ -5,7 +5,7 @@
 npm i pixel-character
 ```
 
-## 3. Loading
+## 2. Loading
 ```javascript
 import pixelCharacter from "pixel-character"
 ```
@@ -30,7 +30,7 @@ const dots = pixelCharacter(character, row, column)
     - default: 12
 
 
-## 3. Example
+## 4. Example
 ```javascript
 import pixelCharacter from "pixel-character"
 const dots = pixelCharacter("A",12,12)
