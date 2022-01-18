@@ -1,4 +1,4 @@
-# pixel-character
+# 🚀 pixel-character
 
 ## 1. Installation
 ```shell
