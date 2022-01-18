@@ -1,5 +1,14 @@
 # 🚀 pixel-character
 
+<div>
+  <img src="https://img.shields.io/badge/language-javascript-4bc51d.svg">
+  <img src="https://travis-ci.org/boennemann/badges.svg?branch=master">
+  <img src="https://img.shields.io/github/issues/fengtianxi001/Npm-Pixel-Character">
+  <img src="https://img.shields.io/github/forks/fengtianxi001/Npm-Pixel-Character">
+  <img src="https://img.shields.io/github/stars/fengtianxi001/Npm-Pixel-Character">
+</div>
+
+
 ## 1. Installation
 ```shell
 npm i pixel-character
