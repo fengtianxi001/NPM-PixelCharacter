@@ -1,0 +1,29 @@
+{
+	"name": "pixel-character",
+	"version": "",
+	"description": "Pixelate the character",
+	"main": "./dist/index.js",
+	"scripts": {
+		"build": "tsc",
+		"run": "tsc && webpack serve",
+		"example": "webpack serve"
+	},
+	"author": "fengtianxi001",
+	"license": "ISC",
+	"devDependencies": {
+		"@types/node": "^17.0.8",
+		"html-webpack-plugin": "^5.3.1",
+		"webpack": "^5.31.2",
+		"webpack-cli": "^4.6.0",
+		"webpack-dev-server": "^3.11.2",
+		"copy-webpack-plugin": "^8.1.1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/fengtianxi001/npm-pixel-character.git"
+	},
+	"bugs": {
+		"url": "https://github.com/fengtianxi001/npm-pixel-character/issues"
+	},
+	"homepage": "https://github.com/fengtianxi001/npm-pixel-character#readme"
+}
