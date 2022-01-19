@@ -1,4 +1,4 @@
-# 🚀 pixel-character
+# 🚀 Npm-Pixel-Character
 
 <div>
   <img src="https://img.shields.io/github/languages/top/fengtianxi001/Npm-Pixel-Character">
